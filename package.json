@@ -1,0 +1,27 @@
+{
+  "name": "react-latest-next-latest-ts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-amplify/ui-react": "^0.0.0-next-release-migration-20d26d1-20231031194610",
+    "@aws-amplify/ui-react-geo": "^0.0.0-next-release-migration-20d26d1-20231031194610",
+    "@aws-amplify/ui-react-notifications": "^0.0.0-next-release-migration-20d26d1-20231031194610",
+    "@aws-amplify/ui-react-storage": "^0.0.0-next-release-migration-20d26d1-20231031194610",
+    "aws-amplify": "6.0",
+    "next": "14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
