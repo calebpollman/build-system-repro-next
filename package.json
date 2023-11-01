@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@aws-amplify/ui-react": "^0.0.0-next-release-migration-20d26d1-20231031194610",
-    "@aws-amplify/ui-react-geo": "^0.0.0-next-release-migration-20d26d1-20231031194610",
-    "@aws-amplify/ui-react-notifications": "^0.0.0-next-release-migration-20d26d1-20231031194610",
-    "@aws-amplify/ui-react-storage": "^0.0.0-next-release-migration-20d26d1-20231031194610",
-    "aws-amplify": "6.0",
+    "@aws-amplify/ui-react": "next-release-migration",
+    "@aws-amplify/ui-react-geo": "next-release-migration",
+    "@aws-amplify/ui-react-notifications": "next-release-migration",
+    "@aws-amplify/ui-react-storage": "next-release-migration",
+    "aws-amplify": "unstable",
     "next": "14.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
